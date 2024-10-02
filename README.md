@@ -2,7 +2,7 @@
 
 
 ## About Me
-🎓- I'm a first-year [Software Development student](https://www.rosebankcollege.co.za/qualifications/iie-diploma-in-it-in-software-development/) at IIE Rosebank College Pretoria, South Africa. I'm passionate about building impactful and efficient software solutions. I am constantly learning and exploring new technologies to enhance my skillset.<br>
+🎓- I'm a [Software Development student](https://www.rosebankcollege.co.za/qualifications/iie-diploma-in-it-in-software-development/) at IIE Rosebank College Pretoria, South Africa. I'm passionate about building impactful and efficient software solutions. I am constantly learning and exploring new technologies to enhance my skillset.<br>
 🖥️- I have a strong foundation in Java, HTML, and CSS
 
 <h3 align="left">Languages and Tools:</h3>
