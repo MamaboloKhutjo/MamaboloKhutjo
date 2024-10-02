@@ -9,9 +9,4 @@
 
 [![MamaboloKhutjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamaboloKhutjo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/khutjomamabolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/khutjomamabolo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khutjo-mamabolo-63371b1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khutjo-mamabolo-63371b1b0/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khutjomamabolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khutjomamabolo/" height="30" width="40" /></a>
-</p>
+
