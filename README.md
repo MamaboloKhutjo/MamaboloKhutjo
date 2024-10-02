@@ -1,7 +1,8 @@
-# Hi, I'm Khutjo Mamabolo! 👋
+![Khutjo Mamabolo](https://github.com/user-attachments/assets/771f4de8-79cd-4769-bc39-9a686c30b786)
+
 
 ## About Me
-🎓- I'm a first-year [Software Development student](https://www.rosebankcollege.co.za/qualifications/iie-diploma-in-it-in-software-development/) at IIE Rosebank College, South Africa. and I am passionate about building impactful and efficient software solutions. I am constantly learning and exploring new technologies to enhance my skillset.<br>
+🎓- I'm a first-year [Software Development student](https://www.rosebankcollege.co.za/qualifications/iie-diploma-in-it-in-software-development/) at IIE Rosebank College, South Africa. I'm passionate about building impactful and efficient software solutions. I am constantly learning and exploring new technologies to enhance my skillset.<br>
 🖥️- I have a strong foundation in Java, HTML, and CSS
 
 <h3 align="left">Languages and Tools:</h3>
