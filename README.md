@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,java,cs"</a> </p> <br>
 
-h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks:</h3>
 <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet"</a> </p>
 
 [![MamaboloKhutjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamaboloKhutjo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
