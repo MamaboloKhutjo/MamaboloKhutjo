@@ -5,7 +5,7 @@
 🎓- I'm a [Software Development student](https://www.rosebankcollege.co.za/qualifications/iie-diploma-in-it-in-software-development/) at IIE Rosebank College Pretoria, South Africa. I'm passionate about building impactful and efficient software solutions. I am constantly learning and exploring new technologies to enhance my skillset.<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,java,cs"</a> </p> <br>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,java,cs"</a> </p>
 
 <h3 align="left">Frameworks:</h3>
 <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet"</a> </p>
