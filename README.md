@@ -9,6 +9,7 @@
  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html" /> </a>
  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/> 
  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+ <img src= "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
 
 <h3 align="left">Frameworks:</h3>
